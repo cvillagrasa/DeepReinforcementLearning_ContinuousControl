@@ -1,0 +1,45 @@
+* {
+    color: #c5c5c5
+}
+
+body {
+    background-color: #313131;
+    font-family: 'Roboto', sans-serif;
+    text-align:justify;
+    margin-top: 4em;
+    margin-bottom: 5em;
+    margin-left: 7em;
+    margin-right: 7em;
+
+}
+
+/* unvisited link */
+a:link {
+    color: #5d96ee;
+}
+
+/* visited link */
+a:visited {
+    color: #3155f7;
+}
+
+/* mouse over link */
+a:hover {
+    color: #eba688;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+.main {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
